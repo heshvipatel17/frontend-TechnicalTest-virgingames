@@ -1,0 +1,35 @@
+2020-06-01 15:06:542 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-06-01 15:06:147 INFO  BrowserSelector :23 - Launching FireFox Browser
+2020-06-01 15:06:343 INFO  BrowserSelector :23 - Launching FireFox Browser
+2020-06-01 15:06:186 INFO  BrowserSelector :23 - Launching FireFox Browser
+2020-06-01 15:06:527 INFO  BrowserSelector :28 - Launching IE Browser
+2020-06-01 15:06:579 INFO  BrowserSelector :28 - Launching IE Browser
+2020-06-01 15:06:671 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-06-01 16:06:819 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-06-01 16:06:385 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-06-01 16:06:480 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-06-01 16:06:771 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-06-01 16:06:364 INFO  HomePage :19 - Clicking on login button[[ChromeDriver: chrome on WINDOWS (9f66745230ef435c4928ef86b449a3e8)] -> xpath: //a[contains(text(),'Login')]]
+2020-06-01 17:06:182 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-06-01 17:06:40 INFO  HomePage :19 - Clicking on login button[[ChromeDriver: chrome on WINDOWS (2b81d33692d8859a78d32ed0d44d5369)] -> xpath: //a[contains(text(),'Login')]]
+2020-06-01 17:06:391 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-06-01 17:06:873 INFO  HomePage :19 - Clicking on login button[[ChromeDriver: chrome on WINDOWS (09d58929d86bcab2dd1fc98795aea3aa)] -> xpath: //a[contains(text(),'Login')]]
+2020-06-01 17:06:385 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-06-01 17:06:848 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-06-02 21:06:261 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-06-02 21:06:380 INFO  BrowserSelector :23 - Launching FireFox Browser
+2020-06-02 22:06:430 INFO  BrowserSelector :23 - Launching FireFox Browser
+2020-06-02 22:06:19 INFO  BrowserSelector :23 - Launching FireFox Browser
+2020-06-02 22:06:275 INFO  BrowserSelector :23 - Launching FireFox Browser
+2020-06-02 22:06:466 INFO  BrowserSelector :23 - Launching FireFox Browser
+2020-06-02 22:06:950 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-06-02 22:06:72 INFO  HomePage :19 - Clicking on login button[[ChromeDriver: chrome on WINDOWS (847c7621890b624ee6d15e632d7643da)] -> xpath: //a[contains(text(),'Login')]]
+2020-06-02 22:06:383 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-06-02 22:06:169 INFO  HomePage :19 - Clicking on login button[[ChromeDriver: chrome on WINDOWS (096c274a7bb2c3b19e7971cf49be4844)] -> xpath: //a[contains(text(),'Login')]]
+2020-06-02 22:06:108 INFO  BrowserSelector :23 - Launching FireFox Browser
+2020-06-02 23:06:926 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-06-02 23:06:38 INFO  HomePage :20 - Clicking on login button[[ChromeDriver: chrome on WINDOWS (1a0fce9cf775a41e2c15b1a4916076ce)] -> xpath: //a[contains(text(),'Login')]]
+2020-06-02 23:06:669 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-06-02 23:06:67 INFO  HomePage :20 - Clicking on login button[[ChromeDriver: chrome on WINDOWS (08fcbf78ec09c5df6ec151e4f0a98820)] -> xpath: //a[contains(text(),'Login')]]
+2020-06-02 23:06:296 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-06-02 23:06:795 INFO  HomePage :20 - Clicking on login button[[ChromeDriver: chrome on WINDOWS (ff18e795c33b68444dd4e5e6c8b92da7)] -> xpath: //a[contains(text(),'Login')]]

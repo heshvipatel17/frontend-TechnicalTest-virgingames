@@ -1,0 +1,74 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 9179895100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 6,
+        "name": "User should verify login button is displayed",
+        "description": "",
+        "id": "login-page-navigate-functionality;user-should-verify-login-button-is-displayed",
+        "after": [
+          {
+            "result": {
+              "duration": 114100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 147450900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I am on home page",
+            "match": {
+              "location": "LoginSteps.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 224202400,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I should see \"Login\" displayed in one of the button",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Login",
+                  "offset": 14
+                }
+              ],
+              "location": "LoginSteps.iShouldSeeDisplayedInOneOfTheButton(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Login page navigate functionality",
+    "description": "\r\nAs a user\r\nI want to visit virgingames website",
+    "id": "login-page-navigate-functionality",
+    "keyword": "Feature",
+    "uri": "src/test/java/com/virgingames/resouces/featurefile/login.feature"
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 7152712400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 6,
+        "name": "User should navigate to login page successfully",
+        "description": "",
+        "id": "login-page-navigate-functionality;user-should-navigate-to-login-page-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 86900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 65869400,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I am on home page",
+            "match": {
+              "location": "LoginSteps.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 8,
+            "name": "I click on login link",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "I should navigate to login page successfully",
+            "match": {
+              "location": "LoginSteps.iShouldNavigateToLoginPageSuccessfully()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Login page navigate functionality",
+    "description": "\r\nAs a user\r\nI want to visit virgingames website",
+    "id": "login-page-navigate-functionality",
+    "keyword": "Feature",
+    "uri": "src/test/java/com/virgingames/resouces/featurefile/login.feature"
+  }
+]
